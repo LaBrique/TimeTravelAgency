@@ -260,7 +260,7 @@ Ce projet est créé avec v0 par Vercel et peut être utilisé librement à titr
 ## 📧 Support & Contact
 
 Pour des questions ou du support :
-- Visiter le site : https://temporal-voyages.vercel.app
+- Visiter le site : https://v0-luxury-time-travel-landing-page-omega.vercel.app
 - Documentation Vercel : https://vercel.com/docs
 - Support OpenAI : https://help.openai.com
 
