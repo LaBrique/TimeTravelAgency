@@ -267,3 +267,6 @@ Pour des questions ou du support :
 ---
 
 **Créé avec ❤️ par Temporal Voyages | Powered by Vercel & v0**
+Authors:
+MARZIN Corentin
+AGUIARD Pedram
